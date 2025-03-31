@@ -23,7 +23,7 @@ The **AI-Powered Resume Screening & Ranking System** is an intelligent tool desi
 ## 📌 Installation
 Clone the repository:
 ```bash
-git clone [https://github.com/yourusername/AI-Resume-Ranking](https://github.com/Kaushik00007/AI-powered-Resume-Screening-and-Ranking-System).git
+git clone https://github.com/Kaushik00007/AI-powered-Resume-Screening-and-Ranking-System
 cd AI-powered-Resume-Screening-and-Ranking-System
 ```
 
