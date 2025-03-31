@@ -44,12 +44,25 @@ streamlit run ResumeRank.py
 4. View **top matching resumes**, extracted skills, and match scores.
 5. Download the **ranked results** in CSV format.
 
-## 📊 System Architecture
-![System Architecture]([https://your-image-link.com](https://www.researchgate.net/profile/Mohammed-Maree/publication/320409645/figure/fig1/AS:815278678081539@1571388992652/Overall-Architecture-of-the-Proposed-System.png))
-
 ## 🔮 Future Enhancements
 - **NER-based Resume Parsing** using advanced NLP models.
 - **Experience & Certification Weightage** for better ranking.
 - **Integration with ATS Systems** for seamless recruitment.
 - **Support for More File Formats** (TXT, JSON, etc.).
 
+## 🙌 Contributions
+Contributions are welcome! Follow these steps:
+```
+Fork the repository
+Create a new branch 
+Commit your changes
+Open a pull request
+```
+## 📧 Contact
+For any queries, reach out via:
+
+- 📧 Email: kaushi00007@gmail.com  
+- 🔗 LinkedIn: https://www.linkedin.com/in/kaushik-k-dev
+- 🌍 GitHub: https://github.com/Kaushik00007/Kaushik00007
+
+## Built with ❤️ using Python, Machine Learning, and Streamlit. 
