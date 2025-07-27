@@ -1,4 +1,4 @@
-# 📄 AI-Powered Resume Screening & Ranking System
+# 📄 SkillMatch AI
 
 ##  Introduction
 The **AI-Powered Resume Screening & Ranking System** is an intelligent tool designed to streamline the recruitment process. It enables recruiters to efficiently analyze and rank multiple resumes against a given job description using **TF-IDF (Term Frequency-Inverse Document Frequency)** and **cosine similarity**. This ensures an objective and accurate matching of candidates based on relevant skills and experience.
